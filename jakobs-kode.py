@@ -1,0 +1,7 @@
+print("Jakob har lavet lort")
+print("   \\\\   ")
+print("   //   ")
+print("   /\   ")
+print("  (__)  ")
+print(" (____) ")
+print("(______)")
